@@ -1,0 +1,21 @@
+1.
+
+2.      Laptop use 80% less power then desktop.       Laptop 150 watts    Desktop 250 watts
+
+3.      Over 23 inches  20 kWh     Under 20 inches   18 kWh        20-23 inches    19kWh
+
+4.      
+
+
+
+
+
+9.      20.58 hours for aa batteries  for average of .81 cents.   (Refer to 12 to see when to replace)  
+(41.6/(#12 *(#11/365)) == 0 then add $1.62 to the total/battery cost)
+
+10.     USA is 9.84 for every kWh.   (Refer to 10/11 for total cost/total Energy)
+(9.84*#12=var)
+
+11.     How many years?
+(#years * var = electricity cost)
+12.     How many hours a day? Multiply by how many years to find total hours
