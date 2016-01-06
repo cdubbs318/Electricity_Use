@@ -26,3 +26,29 @@ http://stackoverflow.com/questions/22506331/simple-dropdown-menu-in-java
 11.     How many years?
 (#years * var = electricity cost)
 12.     How many hours a day? Multiply by how many years to find total hours
+
+
+
+
+
+
+Mac: Imac or macbook pro (pc or laptop)
+		Imac: 21.5 inch, inbetween, 27 inch
+			<21.5: 80 watts per hour* hours per day * years owned*365
+			inbetween: .115 kilowatts * hours per day * years owned*365
+			>27:151 watts per hour* hours per day * years owned*365
+		MacbookPro: .055 kilowatts per hour* hours per day * years owned*365
+
+
+
+Total cost of the packaged computer?
+Laptop or desktop?
+Size of screen in inches?
+Speed of CPU?
+Number of Cores?
+Brand of CPU?
+Does the mouse need a battery?
+What country?
+(If USA, what state?)
+How long do you expect to keep your computer in years?
+How many hours a day do you leave the power on?
